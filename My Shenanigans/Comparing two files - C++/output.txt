@@ -1,0 +1,7 @@
+Varying no. of characters.
+Inputs mismatch at :
+Line = 1, Index = 4
+    ↓
+himanshu lilhore
+himalaya
+    ↑

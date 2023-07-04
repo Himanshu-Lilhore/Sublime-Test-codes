@@ -1,0 +1,104 @@
+n>1
+H1
+regrun is true
+reg is empty
+pushed ( in reg
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+regrun is true
+reg is NOT empty
+popped from reg
+reg is empty
+1 0
+n>1
+H1
+regrun is true
+reg is empty
+pushed ( in reg
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+regrun is true
+reg is NOT empty
+popped from reg
+reg is empty
+H1
+regrun is true
+reg is empty
+regrun set to false
+palrun is true
+palrun set to flase
+outer break : palrun == false && regrun == false
+1 1
+n>1
+H1
+regrun is true
+reg is empty
+pushed ( in reg
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+regrun is true
+reg is NOT empty
+pushed ( in reg
+palrun is true
+initialized itspal to false
+even part
+itspal was true
+H1
+regrun is true
+reg is empty
+pushed ( in reg
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+regrun is true
+reg is NOT empty
+pushed ( in reg
+palrun is true
+palrun set to flase
+1 1
+n>1
+H1
+regrun is true
+reg is empty
+regrun set to false
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+palrun is true
+palrun set to flase
+outer break : palrun == false && regrun == false
+0 4
+n>1
+H1
+regrun is true
+reg is empty
+regrun set to false
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+palrun is true
+initialized itspal to false
+not a pal : pushed in pal vector
+H1
+palrun is true
+initialized itspal to false
+even part
+itspal set to flase : break
+H1
+palrun is true
+palrun set to flase
+outer break : palrun == false && regrun == false
+0 5

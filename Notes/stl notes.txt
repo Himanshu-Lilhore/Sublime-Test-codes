@@ -1,0 +1,50 @@
+c++ STL :::
+
+VECTORS -
+much like arrays, but size can be increased or decreased.
+declaration : 
+vector<int> v; //zero elements
+vector<int> v(50); //50 elements, all initialised with zero : {0,0,0,0,...}
+vector<int> v(50, 7); // 50 element, all initialised with 7
+insert value : v.push_back(2);  // give value which you want to insert
+pop value: v.pop_back();  //pops last inserted element
+clear : v.clear();
+size : v.size();
+accessing elements : v[23] // just like array
+vector<int> v[50]; // this is not vector of 50 elements but it's an array of 50 vectors   
+
+
+sort() -
+it's a function. already coded in STL with best optimizations. O(NlogN). it can be used on arrays, vectors or strings.
+On array :
+sort(ptr to 1st ele, ptr to last ele+1)
+eg -
+int a[4]= {5,4,1,2};
+sort(a,a+4); // a+4 is not pointer to last element, it's a pointer to next element after last element
+On vector :
+vector<int> v = {4,3,2,6};
+sort(v.begin(), v.end());
+// here  begin() and end() are iterators
+
+
+PAIR - 
+pair is a way of creating a composite datatype composed of 2 different primitive or composite datatypes.
+declarations :
+pair<int,int> p;  // a pair of 2 ints
+pair<int,string> p; // a pair of an int and a string
+pair<int,pair<int,string>> p; // a pair of int and (pair of int and string)
+pair<vector<int>,string> p; // a pair of a (vector of int) and a string
+eg. :
+pair<string,int> p = {"hello",6};
+cout << p.first << " " << p.second; // it's elements can be accessed using .first and .second
+Advantage :
+in case, you want to return multiple values from a function
+extreme eg. : 
+pair<vector<pair<int,int>>, string>
+code eg. :
+pair<int, string> p = {4, "himanshu"};
+p.first = 17;
+count << p.first << " " << p.second; 
+// o/p : 17 himanshu
+ 
+

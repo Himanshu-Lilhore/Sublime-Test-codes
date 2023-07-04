@@ -1,0 +1,40 @@
+/* 
+author : a_neutron_star  (Himanshu Lilhore)
+*/
+#include <iostream>
+#include <cstdio>
+/*
+#include<bits/stdc++.h>
+#define ll long long
+#define fr(a,b) for (int i = a; i < b; i++)
+#define rep(i,a,b) for (int i = a; i<b ; i++)
+#define mod 1000000007
+#define inf (1LL<<60)
+#define all(x) (x).begin(),(x).end()
+#define prDouble(x) cout<< fixed << setprecision(10) << x
+#define triplet pair<11, pair<11,11>>
+#define goog(tno) cout << "Case #" << tno << ": "
+#define fast_io ios_base::sync_with_stdio(false);cin.tie(NULL)
+#define read(x) int x; cin >> x
+*/
+using namespace std;
+
+
+void init_code(){
+	//fast_io;
+	#ifndef ONLINE_JUDGE
+	freopen("input.txt", "r", stdin);
+	freopen("output.txt", "w", stdout);
+	#endif // ONLINE_JUDGE
+}
+
+int main ()
+{
+	init_code();
+	//freopen("input.txt", "r", stdin);
+	//freopen("output.txt", "w", stdout);
+	int age = 0;
+	cin >> age;
+	cout << "Your age is " << age << endl;
+	return 0;
+}

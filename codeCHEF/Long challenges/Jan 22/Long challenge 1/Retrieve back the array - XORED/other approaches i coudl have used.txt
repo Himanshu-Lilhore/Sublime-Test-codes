@@ -1,0 +1,25 @@
+approach 1 : 
+/ 
+  / 
+    /
+      /
+        /
+          /
+            /
+              /
+                /
+
+approach 2 :
+/
+  /
+    /
+  /
+    /
+      /
+    /
+      /
+        /
+
+
+approach 3 :
+brute force, i.e. putting loops to work and checking each Xor.

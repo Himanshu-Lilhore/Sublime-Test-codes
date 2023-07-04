@@ -1,0 +1,32 @@
+1- (a) Define Web Engineering and categories of web applications. 7
+(b) (i) Define Models of Web Engineering. 6
+(ii) Write difference between software engineering and web engineering. 7
+Or
+2. Define the following terms related to HTTP and FTP : 20
+(i) Header (iI) Request message (iii) Request line (iv) Methods (v) Response Message
+Unit-II
+3. (a) Define how cohesive websites are designed. 10
+B) Describe various phases of website development. 10
+Or
+4. (a) How RE methods are adapted for web applications ? 10
+(b) Describe various conceptuaf design and website design issues. 10
+Unit-Ill
+5.(a) Write the step for designing the websites using HTML. Also give example. 10
+(b) Define various tasks of CSS with example. 10
+Or
+6.(a) How DHTML is used in internet explorer ? 10
+(b) Define object models of ASP. 10
+Unit-IV
+7. (a) Write short notes on the following : 10
+(i) Ontology (ii) DTD
+(b) How XML is compatabile with CSS and XSL ? 10
+Or
+8.(a) Define XML validators with example. 10
+(b) Differentiate HTML, XML and SGML ? 10
+Unit-V
+9. (a) What do you understand by e-Commerce ? What are the key factors responsible for the success of
+the present day web commerce ? . 10
+(b) Explain various models of e-Commerce. 10
+Or
+10. (a) What measures should be taken to secure the transactions over the internet ? 10
+(b) How digital signature and firewalls are used for security purpose ? Explain in detail. 10
