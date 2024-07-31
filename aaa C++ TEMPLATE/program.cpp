@@ -1,5 +1,5 @@
 /* 
-author : a_neutron_star  (Himanshu Lilhore)
+author : Himanshu Lilhore (Twitter : @HimanshuLilhore)
 */
 
 #include <bits/stdc++.h>
@@ -12,14 +12,13 @@ void fastio();     // for fast I/O
 int main ()
 {
 	init_code();
-	//fastio();
+	fastio();
 	int testCases;
 	cin >> testCases;
 	while(testCases--)
 	{
-		
+
 	}
-	
 	return 0;
 }
 
