@@ -17,7 +17,7 @@ int main ()
 	cin >> testCases;
 	while(testCases--)
 	{
-
+		cout << testCases+1;
 	}
 	return 0;
 }
